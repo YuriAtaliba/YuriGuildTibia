@@ -1,0 +1,36 @@
+/* Estilo para o cabeçalho */
+h1 {
+    color: #333; /* Cor do texto do cabeçalho */
+    font-size: 24px; /* Tamanho da fonte do cabeçalho */
+}
+
+/* Estilo para a lista não ordenada */
+ul {
+    list-style: none; /* Remover marcadores de lista */
+    padding: 0; /* Remover preenchimento padrão da lista */
+}
+
+/* Estilo para os itens da lista */
+li {
+    margin-bottom: 20px; /* Espaçamento entre os itens */
+}
+
+/* Estilo para o nome do jogador */
+li span {
+    font-weight: bold; /* Texto em negrito */
+}
+
+/* Estilo para o nome, nível e vocation */
+li p {
+    margin: 5px 0; /* Espaçamento interno dos parágrafos */
+}
+
+/* Estilo para links */
+a {
+    text-decoration: none; /* Remover sublinhado de links */
+    color: #0077cc; /* Cor do link */
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinhar o link ao passar o mouse */
+}
